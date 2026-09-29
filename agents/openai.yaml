@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品演示视频"
+  short_description: "真实产品录屏、平滑局部缩放、中文配音和同步字幕，自动生成演示视频"
+  default_prompt: "使用 $product-demo-video 为这个产品制作带关键区域缩放、中文配音和同步字幕的演示视频。"
